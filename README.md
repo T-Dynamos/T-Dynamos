@@ -1,16 +1,17 @@
-### Hi there 👋
+<details>
+<summary>  Maintaining </summary>
 
-<!--
-**T-Dynamos/T-Dynamos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Project | Repository
+--- | ---
+[materialyoucolor-python](https://github.com/T-Dynamos/materialyoucolor-python) | [@T-Dynamos](https://github.com/T-Dynamos)
+[materialsymbols-python](https://github.com/T-Dynamos/materialsymbols-python) | [@T-Dynamos](https://github.com/T-Dynamos)
+[KivyMD](https://github.com/kivymd/kivymd) | [@KivyMD](https://github.com/kivymd)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</details>
+
+<details>
+<summary>  My desktop </summary>
+
+![image](https://github.com/user-attachments/assets/1e418fd7-6757-4668-9fe2-2eff4b19c734)
+</details>
