@@ -1,0 +1,17 @@
+#!/data/data/com.termux/files/usr/bin/bash
+# Suggested by Noobhackers :-) 
+# It will install latest version of apktool is 2.5.0
+# Note :- This apk tool is not working in arm devices 
+
+apt-get update 
+rm $PREFIX/bin/apktool
+rm $PREFIX/bin/apktool.jar
+apt install openjdk-17 -y 
+apt install wget -y
+wget https://bitbucket.org/iBotPeaches/apktool/downloads/apktool_2.6.0.jar -O $PREFIX/bin/apktool.jar
+chmod +r $PREFIX/bin/apktool.jar
+wget https://raw.githubusercontent.com/iBotPeaches/Apktool/master/scripts/linux/apktool -O $PREFIX/bin/apktool
+chmod +x $PREFIX/bin/apktool
+wget https://raw.githubusercontent.com/T-Dynamos/T-Dynamos/main/bin/apktool -O $PREFIX/bin/apktool-update
+clear
+echo "Apktool Successfully Installed . Now you can upadte it by command apktool-update"
