@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on YouTube
 - 💬 Ask me about Just Anything
 - 📫 How to reach me: [YouTube](https://youtube.com/channel/UCCGprYqpszbeAYMGbjlh-aA)
-- ⚡ Fun fact: Codind is not crime
+- ⚡ Fun fact: Coding is not crime
 
 
 
