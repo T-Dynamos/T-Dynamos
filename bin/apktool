@@ -10,7 +10,8 @@ if [ -e $PREFIX/bin/apktool.jar ];then
 	rm $PREFIX/bin/apktool.jar
 fi
 apt install openjdk-17 -y 
-wget https://bitbucket.org/iBotPeaches/apktool/downloads/apktool_2.5.0.jar -O $PREFIX/bin/apktool.jar'
+$version=2.5.0
+wget https://bitbucket.org/iBotPeaches/apktool/downloads/apktool_$version.jar -O $PREFIX/bin/apktool.jar
 chmod +r $PREFIX/bin/apktool.jar
 wget https://raw.githubusercontent.com/iBotPeaches/Apktool/master/scripts/linux/apktool -O $PREFIX/bin/apktool
 chmod +x $PREFIX/bin/apktool
