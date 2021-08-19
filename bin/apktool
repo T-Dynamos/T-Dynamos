@@ -3,10 +3,8 @@
 # It will install latest version of apktool
 
 apt-get update 
-if [ -e $PREFIX/bin/apktool ];then
-	rm $PREFIX/bin/apktool
-if [ -e $PREFIX/bin/apktool.jar ];then
-	rm $PREFIX/bin/apktool.jar
+rm $PREFIX/bin/apktool
+rm $PREFIX/bin/apktool.jar
 apt install openjdk-17 -y 
 $version=2.5.0
 wget https://bitbucket.org/iBotPeaches/apktool/downloads/apktool_$version.jar -O $PREFIX/bin/apktool.jar
