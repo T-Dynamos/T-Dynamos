@@ -1,0 +1,8 @@
+#!/data/data/com.termux/files/usr/bin/bash
+# Suggested by Noobhackers :-)
+apt install openjdk-17 -y 
+export apktool_version=2.5.0
+wget https://bitbucket.org/iBotPeaches/apktool/downloads/apktool_$apktool_version.jar -O $PREFIX/bin/apktool.jar'
+chmod +r $PREFIX/bin/apktool.jar
+wget https://raw.githubusercontent.com/iBotPeaches/Apktool/master/scripts/linux/apktool -O $PREFIX/bin/apktool
+chmod +x $PREFIX/bin/apktool
