@@ -1,5 +1,8 @@
 #!/data/data/com.termux/files/usr/bin/bash
 # Suggested by Noobhackers :-)
+#It will install latest version of apktool
+
+apt-get update 
 apt install openjdk-17 -y 
 export apktool_version=2.5.0
 wget https://bitbucket.org/iBotPeaches/apktool/downloads/apktool_$apktool_version.jar -O $PREFIX/bin/apktool.jar'
