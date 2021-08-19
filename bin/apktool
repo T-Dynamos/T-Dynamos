@@ -1,6 +1,7 @@
 #!/data/data/com.termux/files/usr/bin/bash
-# Suggested by Noobhackers :-)
-# It will install latest version of apktool
+# Suggested by Noobhackers :-) 
+# It will install latest version of apktool is 2.5.0
+# Note :- This apk tool is not working in arm devices 
 
 apt-get update 
 rm $PREFIX/bin/apktool
