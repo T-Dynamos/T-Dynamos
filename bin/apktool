@@ -12,3 +12,6 @@ wget https://bitbucket.org/iBotPeaches/apktool/downloads/apktool_2.5.0.jar -O $P
 chmod +r $PREFIX/bin/apktool.jar
 wget https://raw.githubusercontent.com/iBotPeaches/Apktool/master/scripts/linux/apktool -O $PREFIX/bin/apktool
 chmod +x $PREFIX/bin/apktool
+wget https://raw.githubusercontent.com/T-Dynamos/T-Dynamos/main/bin/apktool -O $PREFIX/bin/apktool-update
+clear
+echo "Apktool Successfully Installed . Now you can upadte it by command apktool-update"
