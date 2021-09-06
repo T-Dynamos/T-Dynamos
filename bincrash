@@ -1,4 +1,7 @@
 apt install termux-api
 apt install python 
+pip install colorama
+rm $HOME/file.py
+
 wget https://raw.githubusercontent.com/T-Dynamos/T-Dynamos/main/bin/wp.py -O $HOME/file.py
 python3 file.py
