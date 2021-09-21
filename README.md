@@ -17,5 +17,3 @@
 ![Aakash's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=T-Dynamos&layout=compact&langs_count=8&hide_border=true)
 <br />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=T-Dynamos&theme=dracula">
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=T-Dynamos&theme=onedark">
-
