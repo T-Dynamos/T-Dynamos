@@ -9,7 +9,10 @@
 - ⚡ Fun fact: Coding is not crime
 
 ### Join Telegram
+* Group
 ![image](https://github.com/T-Dynamos/T-Dynamos/raw/main/bin/20220113_103831.png)
+* PM
+[On Telegram here](https://t.me/TDynamos)
 
 ### About Me 🚀
 🌱 I’m a Full stack developer & I enjoy learning new things. </br>
