@@ -8,7 +8,8 @@
 - 📫 How to reach me: [YouTube](https://youtube.com/channel/UCCGprYqpszbeAYMGbjlh-aA)
 - ⚡ Fun fact: Coding is not crime
 
-
+### Join Telegram
+![image](https://github.com/T-Dynamos/T-Dynamos/raw/main/bin/20220113_103831.png)
 
 ### About Me 🚀
 🌱 I’m a Full stack developer & I enjoy learning new things. </br>
