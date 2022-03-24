@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on [IgFreak](github.com/T-Dynamos/IgFreak)
-- 🌱 I’m currently learning php,c
+- 🌱 I’m currently learning kivy framework
 - 👯 I’m looking to collaborate on YouTube
 - 💬 Ask me about Just Anything
 - 📫 How to reach me: [YouTube](https://youtube.com/channel/UCCGprYqpszbeAYMGbjlh-aA)
@@ -10,7 +10,7 @@
 
 ### Join Telegram
 * Group
-![image](https://github.com/T-Dynamos/T-Dynamos/raw/main/bin/20220113_103831.png)
+[![image](https://github.com/T-Dynamos/T-Dynamos/raw/main/bin/20220113_103831.png)](https://t.me/TDynamos)
 * PM
 [On Telegram here](https://t.me/TDynamos)
 
