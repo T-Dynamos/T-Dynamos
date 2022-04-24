@@ -1,7 +1,7 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, We Are T-Dynamos
 
 
-- 🔭 I’m currently working on [IgFreak](github.com/T-Dynamos/IgFreak)
+- 🔭 I’m currently working on [SRAPS-App](github.com/T-Dynamos/SRAPS-App)
 - 🌱 I’m currently learning kivy framework
 - 👯 I’m looking to collaborate on YouTube
 - 💬 Ask me about Just Anything
