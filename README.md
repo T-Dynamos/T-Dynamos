@@ -12,12 +12,13 @@
 <p align="center">
   <a href="https://python.org" target="_blank"><img alt="home" src="https://img.shields.io/badge/I love Python-pink?style=for-the-badge&logo=python&logoColor="></a>
   <a href="https://archcraft.io" target="_blank"><img alt="home" src="https://img.shields.io/badge/I Use Arch LInux-green?style=for-the-badge&logo=arch-linux&logoColor=darkblue"></a>
-  <a href="https://acer.com" target="_blank"><img alt="home" src="https://img.shields.io/badge/2GB , 512GB HHD-blue?style=for-the-badge&logo=ram&logoColor=darkorange"></a>
+  <a href="https://acer.com" target="_blank"><img alt="home" src="https://img.shields.io/badge/2GB , 512GB HHD-blue?style=for-the-badge&logoColor=darkorange"></a>
 </p>
 
 
 ## My Github Stats
 <p align="center"><img alt="home" src="https://github-readme-stats.vercel.app/api?username=T-Dynamos&show_icons=true&hide_border=true"></p>
+<p align="center"><img alt="home" src="https://api.githubtrends.io/user/svg/T-Dynamos/langs?time_range=one_year&theme=bright_lights"></p>
 
 ## Dontaions
 
