@@ -17,8 +17,7 @@
 
 
 ## My Github Stats
-<p align="center"><img alt="home" src="https://github-readme-stats.vercel.app/api?username=T-Dynamos&show_icons=true&hide_border=false&theme=synthwave"></p>
-<p align="center"><img alt="home" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=synthwave"></p>
+<p align="center"><img alt="home" src="https://github-readme-stats.vercel.app/api?username=T-Dynamos&show_icons=true&hide_border=false&theme=synthwave"><img alt="home" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-Dynamos&layout=compact&theme=synthwave"></p>
 
 ## Dontaions
 
