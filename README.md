@@ -15,9 +15,12 @@
   <a href="https://acer.com" target="_blank"><img alt="home" src="https://img.shields.io/badge/2GB , 512GB HHD-blue?style=for-the-badge&logoColor=darkorange"></a>
 </p>
 
+![setup](https://user-images.githubusercontent.com/68729523/183293916-ac32d4e0-fb93-48f3-bf01-c19d069f4774.png)
+
 
 ## My Github Stats
-<p align="center"><img alt="home" src="https://github-readme-stats.vercel.app/api?username=T-Dynamos&show_icons=true&hide_border=false&theme=synthwave"><img alt="home" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-Dynamos&layout=compact&theme=synthwave"></p>
+<p align="center"><img alt="home" src="https://github-readme-stats.vercel.app/api?username=T-Dynamos&show_icons=true&hide_border=false&theme=synthwave">
+<p align="center"><img alt="home" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-Dynamos&layout=compact&theme=synthwave"></p>
 
 ## Dontaions
 
