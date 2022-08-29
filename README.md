@@ -14,6 +14,8 @@
   <a href="https://archcraft.io" target="_blank"><img alt="home" src="https://img.shields.io/badge/I Use Arch LInux-green?style=for-the-badge&logo=arch-linux&logoColor=darkblue"></a>
   <a href="https://acer.com" target="_blank"><img alt="home" src="https://img.shields.io/badge/2GB , 512GB HHD-blue?style=for-the-badge&logoColor=darkorange"></a>
 </p>
+
+
 ![Screenshot_2022-08-29-18-46-50_1366x768](https://user-images.githubusercontent.com/68729523/187210434-5d4c8475-9549-4834-b672-85a1c26d1ebe.png)
 
 
