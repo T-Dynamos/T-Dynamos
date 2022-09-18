@@ -16,8 +16,7 @@
 </p>
 
 
-![Screenshot_2022-08-29-18-46-50_1366x768](https://user-images.githubusercontent.com/68729523/187210434-5d4c8475-9549-4834-b672-85a1c26d1ebe.png)
-
+![Screenshot_2022-09-18-16-00-02_1366x768](https://user-images.githubusercontent.com/68729523/190898805-00e15c3f-0044-4e10-9852-54e74933c8ca.png)
 
 
 ## My Github Stats
