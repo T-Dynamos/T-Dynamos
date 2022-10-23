@@ -24,19 +24,8 @@
 <p align="center"><img alt="home" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-Dynamos&layout=compact&theme=synthwave"></p>
 
 ## Dontaions
-# Please help my friend with donating some money. He got renal failure recently
-His github account https://github.com/pyGuru123. He is a great python teacher 
- 
-![IMG_20221005_195054_704](https://user-images.githubusercontent.com/68729523/194084184-38e3d855-fe42-4cf2-ab76-698021e85d6f.jpg)
+My only dream till now is to have a raspberry Pi 400
 
+![img](https://raw.githubusercontent.com/T-Dynamos/T-Dynamos/main/bapp/20220402_114517.png)
 
-From his other friend
->
-```
-Offer A Helping Hand To Support Prajjwal Pathak's Treatment 
-
-Hi,My name is Shivam kumar and I am raising funds for my friend, Prajjwal Pathak who is suffering from Kidney (renal) Failure and is undergoing treatment at Regency Hospital, Kanpur. He is Student and Brilliant Python Developer. The family has done all it can to collect the total amount required for the treatment but Rs.500000 more is required to pay for all the medical expenses.As the amount required is huge, I request you to kin...
-
-Read More & Donate Now. https://ketto.org/s?id=rm-703520
-Even a small amount will make a difference.
-```
+UPI Id: I don't have any
