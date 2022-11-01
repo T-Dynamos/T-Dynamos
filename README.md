@@ -1,6 +1,6 @@
 <p align="center">
 
-<h1 align="center">I am @<a href="https://youtube.com/channel/UCCGprYqpszbeAYMGbjlh-aA">T-Dynamos</a></h1>
+<h1 align="center">HI! I am @<a href="https://youtube.com/channel/UCCGprYqpszbeAYMGbjlh-aA">Ansh</a></h1>
 
 </p>
 
@@ -17,13 +17,18 @@
 
 
 ![image](https://user-images.githubusercontent.com/68729523/199286841-64ab60b0-2619-4755-a524-f2e23a6d024d.png)
+*Wallpaper designed by my friend [Download Here](https://user-images.githubusercontent.com/68729523/199287713-320715e6-0efb-460c-99d9-cbb1bdc6c17c.jpg)*
+<details>
+<summary>Wana see my laptop back?</summary>
 
-
+![IMG_20221101_221149](https://user-images.githubusercontent.com/68729523/199290541-824c91ff-106a-4a8d-91e4-23313790b19e.jpg)
+*Also painted by same friend*
+</details>
 
 ## My Github Stats
 <p align="center"><img alt="home" src="https://github-readme-stats.vercel.app/api?username=T-Dynamos&show_icons=true&hide_border=false&theme=synthwave">
 <p align="center"><img alt="home" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-Dynamos&layout=compact&theme=synthwave"></p>
-
+*Wtf why smali is here?*
 ## Dontaions
 My only dream till now is to have a raspberry Pi 400
 
