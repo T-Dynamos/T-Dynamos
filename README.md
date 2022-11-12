@@ -27,8 +27,10 @@
 
 ## My Github Stats
 <p align="center"><img alt="home" src="https://github-readme-stats.vercel.app/api?username=T-Dynamos&show_icons=true&hide_border=false&theme=synthwave">
-<p align="center"><img alt="home" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-Dynamos&layout=compact&theme=synthwave"></p>
+<p align="center"><img alt="home" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-Dynamos&layout=compact&theme=dark"></p>
+
 *Wtf why smali is here?*
+
 ## Dontaions
 My only dream till now is to have a raspberry Pi 400
 
