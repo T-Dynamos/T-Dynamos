@@ -3,7 +3,7 @@
 <h1 align="center">HI! I am @<a href="https://youtube.com/channel/UCCGprYqpszbeAYMGbjlh-aA">Ansh</a></h1>
 
 </p>
-
+- ⚙️ I'm just a normal student.
 - 🔭 I’m currently working on [PrivaChat](github.com/T-Dynamos/PrivaChat)
 - 🌱 I’m currently learning Arch Linux
 - 👯 I’m looking to collaborate on Github
@@ -37,3 +37,5 @@ My only dream till now is to have a raspberry Pi 400
 ![img](https://raw.githubusercontent.com/T-Dynamos/T-Dynamos/main/bapp/20220402_114517.png)
 
 UPI Id: nishanisha1792@apl
+
+You can also hier me for your open source projects.
