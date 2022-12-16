@@ -9,7 +9,9 @@
 - 🌱 I’m currently learning Arch Linux
 - 👯 I’m looking to collaborate on Github
 - 📫 How to reach me: [Telegram](https://t.me/ProgrammerAnsh)
-- 📞 Join WhatsApp group: https://chat.whatsapp.com/Do9YjwQVOVWJ3kvSAT6BSI
+- 📞 Join WhatsApp group [here](https://chat.whatsapp.com/Do9YjwQVOVWJ3kvSAT6BSI)
+- 📡 Join Telegram group [here](https://t.me/TDynamos)
+
 <p align="center">
   <a href="https://python.org" target="_blank"><img alt="home" src="https://img.shields.io/badge/I love Python-pink?style=for-the-badge&logo=python&logoColor="></a>
   <a href="https://archcraft.io" target="_blank"><img alt="home" src="https://img.shields.io/badge/I Use Arch LInux-green?style=for-the-badge&logo=arch-linux&logoColor=darkblue"></a>
