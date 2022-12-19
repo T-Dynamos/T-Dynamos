@@ -15,11 +15,11 @@
 <p align="center">
   <a href="https://python.org" target="_blank"><img alt="home" src="https://img.shields.io/badge/I love Python-pink?style=for-the-badge&logo=python&logoColor="></a>
   <a href="https://archcraft.io" target="_blank"><img alt="home" src="https://img.shields.io/badge/I Use Arch LInux-green?style=for-the-badge&logo=arch-linux&logoColor=darkblue"></a>
-  <a href="https://acer.com" target="_blank"><img alt="home" src="https://img.shields.io/badge/2GB , 512GB HHD-blue?style=for-the-badge&logoColor=darkorange"></a>
+  <a href="https://www.acer.com/us-en/support?search=NXMSMSI001509015CE7600;NX.MSMSI.001;E3-112M&filter=global_download" target="_blank"><img alt="home" src="https://img.shields.io/badge/8GB , 512GB HHD-blue?style=for-the-badge&logoColor=darkorange"></a>
 </p>
 
 
-![image](https://user-images.githubusercontent.com/68729523/199286841-64ab60b0-2619-4755-a524-f2e23a6d024d.png)
+![image](https://user-images.githubusercontent.com/68729523/208490748-62e5b7ee-37f7-4a29-8470-8c4ba868f8bd.png)
 *Wallpaper designed by my friend [Download Here](https://user-images.githubusercontent.com/68729523/199287713-320715e6-0efb-460c-99d9-cbb1bdc6c17c.jpg)*
 <details>
 <summary>Wana see my laptop back?</summary>
