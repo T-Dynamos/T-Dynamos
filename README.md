@@ -21,7 +21,7 @@ My Linux Journey : Kali Linux > Ubuntu > Archcraft > Manjaro > Garuda
 </p>
 
 
-![image](https://user-images.githubusercontent.com/68729523/208490748-62e5b7ee-37f7-4a29-8470-8c4ba868f8bd.png)
+![image](https://user-images.githubusercontent.com/68729523/209458428-5ee8ac17-fa22-4bad-be49-ef89bc243122.png)
 *Wallpaper designed by my friend [Download Here](https://user-images.githubusercontent.com/68729523/199287713-320715e6-0efb-460c-99d9-cbb1bdc6c17c.jpg)*
 <details>
 <summary>Wana see my laptop back?</summary>
