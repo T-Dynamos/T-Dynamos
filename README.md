@@ -4,6 +4,8 @@
 
 </p>
 
+My Linux Journey : Kali Linux > Ubuntu > Archcraft > Manjaro > Garuda 
+
 - ⚙️ I'm just a normal student.
 - 🔭 I’m currently working on [PrivaChat](github.com/T-Dynamos/PrivaChat)
 - 🌱 I’m currently learning Arch Linux
