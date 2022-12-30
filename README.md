@@ -30,12 +30,10 @@ My Linux Journey : Kali Linux > Ubuntu > Archcraft > Manjaro > Garuda
 *Also painted by same friend*
 </details>
 
-## My Github Stats
-<p align="center"><img alt="home" src="https://github-readme-stats.vercel.app/api?username=T-Dynamos&show_icons=true&hide_border=false&theme=synthwave">
-<p align="center"><img alt="home" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-Dynamos&layout=compact&theme=dark"></p>
+## My Github Stats 2022
+[#GitHubUnwrapped](https://githubwunwrapped.com)
 
-*Wtf why smali is here?*
-
+![image](https://github.com/T-Dynamos/T-Dynamos/raw/main/images/ezgif-1-e764c24455.gif)
 ## Dontaions
 My only dream till now is to have a raspberry Pi 400
 
