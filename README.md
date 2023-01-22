@@ -18,10 +18,9 @@ My Linux Journey : Kali Linux > Ubuntu > Archcraft > Manjaro > Garuda
   <a href="https://python.org" target="_blank"><img alt="home" src="https://img.shields.io/badge/I love Python-pink?style=for-the-badge&logo=python&logoColor="></a>
   <a href="https://archcraft.io" target="_blank"><img alt="home" src="https://img.shields.io/badge/I Use Arch LInux-green?style=for-the-badge&logo=arch-linux&logoColor=darkblue"></a>
   <a href="https://www.acer.com/us-en/support?search=NXMSMSI001509015CE7600;NX.MSMSI.001;E3-112M&filter=global_download" target="_blank"><img alt="home" src="https://img.shields.io/badge/8GB , 512GB HHD-blue?style=for-the-badge&logoColor=darkorange"></a>
-</p>
+</
+![image](https://user-images.githubusercontent.com/68729523/213903314-c0de1017-4ad1-49d0-a6c0-6dbac2c5043c.png)
 
-
-![image](https://user-images.githubusercontent.com/68729523/209458428-5ee8ac17-fa22-4bad-be49-ef89bc243122.png)
 *Wallpaper designed by my friend [Download Here](https://user-images.githubusercontent.com/68729523/199287713-320715e6-0efb-460c-99d9-cbb1bdc6c17c.jpg)*
 <details>
 <summary>Wana see my laptop back?</summary>
