@@ -4,7 +4,7 @@
 
 </p>
 
-My Linux Journey : Kali Linux > Ubuntu > Archcraft > Manjaro > Garuda 
+My Linux Journey : Kali Linux > Ubuntu > Archcraft > Manjaro > Garuda > Archcraft
 
 - ⚙️ I'm just a normal student.
 - 🔭 I’m currently working on [PrivaChat](github.com/T-Dynamos/PrivaChat)
@@ -19,9 +19,10 @@ My Linux Journey : Kali Linux > Ubuntu > Archcraft > Manjaro > Garuda
   <a href="https://archcraft.io" target="_blank"><img alt="home" src="https://img.shields.io/badge/I Use Arch LInux-green?style=for-the-badge&logo=arch-linux&logoColor=darkblue"></a>
   <a href="https://www.acer.com/us-en/support?search=NXMSMSI001509015CE7600;NX.MSMSI.001;E3-112M&filter=global_download" target="_blank"><img alt="home" src="https://img.shields.io/badge/8GB , 512GB HHD-blue?style=for-the-badge&logoColor=darkorange"></a>
 </
-  
-![image](https://user-images.githubusercontent.com/68729523/213903314-c0de1017-4ad1-49d0-a6c0-6dbac2c5043c.png)
 
+![image](https://user-images.githubusercontent.com/68729523/213903944-f146c47f-17cf-4138-9e08-3d2a664f03e0.png)
+  
+  
 *This is arch btw*
 
 // *Wallpaper designed by my friend [Download Here](https://user-images.githubusercontent.com/68729523/199287713-320715e6-0efb-460c-99d9-cbb1bdc6c17c.jpg)*
@@ -30,6 +31,11 @@ My Linux Journey : Kali Linux > Ubuntu > Archcraft > Manjaro > Garuda
 
 ![IMG_20221101_221149](https://user-images.githubusercontent.com/68729523/199290541-824c91ff-106a-4a8d-91e4-23313790b19e.jpg)
 *Also painted by same friend*
+</details>
+
+<details>
+<summary>My future project (dream)?</summary>
+  *Create a high performance desktop environment*
 </details>
 
 ## My Github Stats 2022
