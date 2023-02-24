@@ -20,8 +20,8 @@ My Linux Journey : Kali Linux > Ubuntu > Archcraft > Manjaro > Garuda > Archcraf
   <a href="https://www.acer.com/us-en/support?search=NXMSMSI001509015CE7600;NX.MSMSI.001;E3-112M&filter=global_download" target="_blank"><img alt="home" src="https://img.shields.io/badge/8GB , 512GB HHD-blue?style=for-the-badge&logoColor=darkorange"></a>
 </
 
-![image](https://user-images.githubusercontent.com/68729523/213903944-f146c47f-17cf-4138-9e08-3d2a664f03e0.png)
-  
+![image](https://user-images.githubusercontent.com/68729523/221249662-5a592eb7-749d-4e1a-b234-96f02410693a.png)
+
   
 *This is arch btw*
 
@@ -42,11 +42,5 @@ My Linux Journey : Kali Linux > Ubuntu > Archcraft > Manjaro > Garuda > Archcraf
 [#GitHubUnwrapped](https://githubwunwrapped.com)
 
 ![image](https://github.com/T-Dynamos/T-Dynamos/raw/main/images/ezgif-1-e764c24455.gif)
-## Dontaions
-My only dream till now is to have a raspberry Pi 400
-
-![img](https://raw.githubusercontent.com/T-Dynamos/T-Dynamos/main/bapp/20220402_114517.png)
-
-UPI Id: nishanisha1792@apl
 
 You can also hier me for your open source projects.
