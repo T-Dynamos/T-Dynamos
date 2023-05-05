@@ -2,4 +2,4 @@
 ```
 I am that MONSTER.
 ```
-By "L. Lawliet"
+By "L. Lawliet" (Death Note)
