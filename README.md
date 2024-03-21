@@ -1,6 +1,6 @@
 ```
 "What we perceive is not the real world at all, that's just the best guess of our brain." 
-    ~ Elliot Alderson
+    ~ Elliot Alderson (Mr. Robot)
 ```
 <details>
 <summary>Planned projects of 2024</summary>
