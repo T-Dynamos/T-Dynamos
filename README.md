@@ -7,11 +7,11 @@
 <summary> Actively Maintaining </summary>
 
 
-Sr. No. | URL | Organization
---- | --- | ---
-1 | [materialyoucolor-python](https://github.com/T-Dynamos/materialyoucolor-python) | [@T-Dynamos](https://github.com/T-Dynamos)
-2 | [materialsymbols-python](https://github.com/T-Dynamos/materialsymbols-python) | [@T-Dynamos](https://github.com/T-Dynamos)
-3 | [KivyMD](https://github.com/kivymd/kivymd) | [@KivyMD](https://github.com/kivymd)
-4 | [Blender android port](https://github.com/termux-user-repository/tur/blob/master/tur-on-device/blender/build.sh) | [@termux-user-repository](https://github.com/kivymd)
+Project | Repository
+--- | ---
+[materialyoucolor-python](https://github.com/T-Dynamos/materialyoucolor-python) | [@T-Dynamos](https://github.com/T-Dynamos)
+[materialsymbols-python](https://github.com/T-Dynamos/materialsymbols-python) | [@T-Dynamos](https://github.com/T-Dynamos)
+[KivyMD](https://github.com/kivymd/kivymd) | [@KivyMD](https://github.com/kivymd)
+[Blender android port](https://github.com/termux-user-repository/tur/blob/master/tur-on-device/blender/build.sh) | [@termux-user-repository](https://github.com/kivymd)
 
 </details>
