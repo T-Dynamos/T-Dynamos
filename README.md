@@ -4,7 +4,7 @@
 ```
 
 <details>
-<summary> Actively Maintaining </summary>
+<summary> Inactively Maintaining </summary>
 
 
 Project | Repository
