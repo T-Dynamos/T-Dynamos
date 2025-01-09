@@ -3,11 +3,8 @@
     ~ Elliot Alderson (Mr. Robot)
 ```
 
-
-Getting back soon!
-
 <details>
-<summary> Inactively Maintaining </summary>
+<summary>  Maintaining </summary>
 
 
 Project | Repository
@@ -15,6 +12,5 @@ Project | Repository
 [materialyoucolor-python](https://github.com/T-Dynamos/materialyoucolor-python) | [@T-Dynamos](https://github.com/T-Dynamos)
 [materialsymbols-python](https://github.com/T-Dynamos/materialsymbols-python) | [@T-Dynamos](https://github.com/T-Dynamos)
 [KivyMD](https://github.com/kivymd/kivymd) | [@KivyMD](https://github.com/kivymd)
-[Blender android port](https://github.com/termux-user-repository/tur/blob/master/tur-on-device/blender/build.sh) | [@termux-user-repository](https://github.com/kivymd)
 
 </details>
