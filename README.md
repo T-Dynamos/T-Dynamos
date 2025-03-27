@@ -3,6 +3,15 @@
     ~ Elliot Alderson (Mr. Robot)
 ```
 
+
+<details>
+<summary>  Fun Fact </summary>
+
+```
+Fuck competitive examinations.
+```
+</details>
+
 <details>
 <summary>  Maintaining </summary>
 
