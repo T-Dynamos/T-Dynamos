@@ -10,6 +10,8 @@
 ```
 Fuck competitive examinations.
 ```
+yet I can't figure out any better way of selection.
+
 </details>
 
 <details>
@@ -23,3 +25,10 @@ Project | Repository
 [KivyMD](https://github.com/kivymd/kivymd) | [@KivyMD](https://github.com/kivymd)
 
 </details>
+
+<details>
+<summary>  My desktop </summary>
+
+![image](https://github.com/user-attachments/assets/1e418fd7-6757-4668-9fe2-2eff4b19c734)
+</details>
+
