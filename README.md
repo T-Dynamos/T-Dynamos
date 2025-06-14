@@ -10,8 +10,3 @@ Project | Repository
 
 </details>
 
-<details>
-<summary>  My desktop </summary>
-
-![image](https://github.com/user-attachments/assets/1e418fd7-6757-4668-9fe2-2eff4b19c734)
-</details>
