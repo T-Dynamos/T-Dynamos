@@ -10,3 +10,5 @@ Project | Repository
 [materialshapes-python](https://github.com/T-Dynamos/materialshapes-python) | [@T-Dynamos](https://github.com/T-Dynamos)
 </details>
 
+
+Check out some wallpapers on [my website](https://anshdadwal.is-a.dev/wallpapers/) (0_0)
